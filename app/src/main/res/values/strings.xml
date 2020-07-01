@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data Synchronization</string>
+    <string name="evening_activity">Evening Activity</string>
+    <string name="day_activity">Day Activity</string>
+    <string name="morning_activity">Morning Activity</string>
+    <string name="start">Start</string>
+    <string name="synchronization">Synchronization</string>
+</resources>
